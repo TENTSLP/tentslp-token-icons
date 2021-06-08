@@ -30,4 +30,4 @@ Your icon will be available from https://tokens.tent.app/ `{size}` / `{txid}` . 
 
 ## Services using tentslp-token-icons
 
-[slpexplorer.tent.app](https://slpexplorer.tent.app)
+[slp.tent.app](https://slp.tent.app) [mint.tent.app](https://mint.tent.app)
