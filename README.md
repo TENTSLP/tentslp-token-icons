@@ -8,7 +8,7 @@ NFT token icons will not be accepted (there are too many).
 
 ## Adding your icon
 
-Create a version of your icon in 32x32, 64x64, 128x128 and "original" (more than or equal to 128px) and add them to their respective folders in a pull request. If you have a SVG file, feel free to add that to (though SVG's will not be served from the endpoint). After adding your icon and made the pull request please contact us on Discord (https://discord.gg/78rVJcH)
+Create a version of your icon in 32x32, 64x64, 128x128 and "original" (more than or equal to 128px) and add them to their respective folders in a pull request. If you have a SVG file, feel free to add that to (though SVG's will not be served from the endpoint). After adding your icon and made the pull request please contact us on [Discord](https://discord.gg/78rVJcH)
 
 ## Endpoint Usage
 
